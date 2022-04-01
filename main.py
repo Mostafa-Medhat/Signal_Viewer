@@ -1,5 +1,4 @@
-# import pyautogui
-# import pyscreenshot
+
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5 import QtCore, QtGui, QtWidgets
 from pyqtgraph import PlotWidget
@@ -92,7 +91,7 @@ import os.path
 
 import scipy.signal
 
-from GUI12 import Ui_MainWindow, MyMplCanvas
+from GUI import Ui_MainWindow, MyMplCanvas
 
 
 class MainWindow(QtWidgets.QMainWindow):
