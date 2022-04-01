@@ -27,5 +27,9 @@ clone the rebo , install the packages needed then run the main file
 
 ## Screenshots
 
+![](ICONS/1.png)
+![](ICONS/2.png)
+<!-- ![alt text](ICONS/.png) -->
+
 
 
