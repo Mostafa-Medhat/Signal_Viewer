@@ -29,7 +29,11 @@ clone the rebo , install the packages needed then run the main file
 
 ![](ICONS/1.png)
 ![](ICONS/2.png)
-![alt text](ICONS/Siganl_monitor_GIF.gif)
+
+<p align="center">
+  <img src="https://github.com/Mostafa-Medhat/Signal_Viewer/blob/main/ICONS/Siganl_monitor_GIF.gif?raw=true">
+</p>
+
 
 
 
